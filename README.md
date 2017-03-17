@@ -1,6 +1,6 @@
 # Manual-Cryptocoins
 
-Manual sobre Moedas Digitais
+Manual sobre moedas digitais
 
 ## O que são
 
@@ -29,10 +29,12 @@ Elas são também como uma plataforma de negociação para a compra e venda uma 
 ### BOTs
 Os BOTs a serem utilizados serão:
 - ZenBot
+>
 ZenBot, é um BOT de Inteligência Artificial, super leve e bastante extensível.
 Possui suporte para Bitcoin, Ether, Litecoin (e outros) assim como o suporte de moedas físicas como US Dollars, Euros, Chinese Yuan (e outros).
 
 - Gekko
+>
 Gekko, é um BOT de negociação em Bitcoin e uma plataforma de `Backtesting` que se conecta às trocas populares.
 Oferece monitoramento do mercado ao vivo
 Importação de dados históricos do mercado
@@ -43,17 +45,22 @@ Biblioteca de mercado de baixo nível
 
 ## Moedas
 - BitCoin
+>
 Podemos entender o Bitcoin como um pagamento eletrônico tão eficiente quanto o realizado com uma cédula de dinheiro.
 
 - Dashcoin
+>
 É uma moeda digital anônima e instantâneas enquanto você faz transações, semelhante ao dinheiro, ou seja é uma versão melhorada do Bitcoin corrigindo falhas e aperfeiçoando-se para se tornar uma `digital cash`.
 
 - Litecoin
+>
 O Litecoin destaca-se por ser bem mais leve do que o BTC tradicional. O processamento de blocos, por exemplo, ocorre a cada 2,5 minutos (contra os 10 minutos do Bitcoin original). Além disso, os pacotes de dados dos Litecoins são bem mais leves e podem ser minerados através de hardwares mais modestos, dispensando o uso de máquinas criadas especialmente para essa finalidade.
 
 - Ethereum
+>
 O Ethereum, assim como a Bitcoin, é uma rede descentralizada baseada na tecnologia blockchain, com código aberto, operado e controlado pelos próprios usuários.
 O plataforma do Ethereum permite que desenvolvedores de qualquer lugar do mundo crie e distribua Smart Contracts, que funcionam como programas de computadores programados para executar funções a partir de determinadas circunstâncias, como transferir uma certa quantidade de dinheiro quando uma  tarefa for cumprido, enviar um arquivo específico quando solicitado por algum usuário, e muito, muito mais. Tudo isso, é claro, acontecendo em uma rede totalmente descentralizada, segura e imutável.
 
 - Monero
+>
 Monero é uma moeda virtual descentralizada tal como o Bitcoin, não sendo um descendente do mesmo. Monero tem como objetivo ser um sistema monetário fungível e não-rastreável. Tem, de modo intrínseco, um nível mais elevado de privacidade que a Bitcoin ou qualquer outro dos seus descendentes.
