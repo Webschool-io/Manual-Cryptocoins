@@ -8,7 +8,7 @@ Moedas Digitais ou também conhecidas como Criptomoedas, são conhecidas por uti
 
 ## Como funcionam
 
-As Criptomoedas usam a Internet como um Meio de Circulação
+As Criptomoedas usam a Internet como um Meio de Circulação e utiliza criptografia para mantê-lo seguro. Igual à moeda impressa que tem números de série ou listras ocultas em seu interior para evitar falsificações, a criptomoeda utiliza códigos que são muito difíceis de quebrar.
 
 ### Mineração
 O processo de mineração das Criptomoedas necessário um computador poderoso dotado do software adequado e ligado em rede a um conjunto de outros computadores pertencentes a outros proprietários ou organizações através da rede P2P. Essa rede é responsável por gerenciar as transações, confirmações e geração de moedas.
