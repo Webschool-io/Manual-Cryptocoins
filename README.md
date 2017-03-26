@@ -20,3 +20,7 @@ Manual sobre moedas digitais
 
 ## Moedas
 
+## Trader
+Para acompanhar como andas as movimentações do mercado aqui está um site
+
+https://cryptrader.com/
