@@ -64,3 +64,8 @@ O plataforma do Ethereum permite que desenvolvedores de qualquer lugar do mundo 
 - Monero
 >
 Monero é uma moeda virtual descentralizada tal como o Bitcoin, não sendo um descendente do mesmo. Monero tem como objetivo ser um sistema monetário fungível e não-rastreável. Tem, de modo intrínseco, um nível mais elevado de privacidade que a Bitcoin ou qualquer outro dos seus descendentes.
+
+## Trader
+Para acompanhar como as movimentações do mercado utilize o site abaixo:
+
+- [Cryptrader](https://cryptrader.com/)
